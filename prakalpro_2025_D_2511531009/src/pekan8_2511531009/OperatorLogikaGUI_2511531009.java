@@ -176,3 +176,4 @@ public class OperatorLogikaGUI_2511531009 extends JFrame {
 
 	}
 }
+
